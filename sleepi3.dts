@@ -74,9 +74,7 @@
 	fragment@5 {
 		target = <&leds>;
 		__overlay__ {
-			status = "okay";
-
-			led0: led_gpio5 {
+			led0: led-sleepi {
 				label = "sleepi:led0";
 				gpios = <&gpio 5 1>;
 				
