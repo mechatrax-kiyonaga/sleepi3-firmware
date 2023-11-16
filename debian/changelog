@@ -1,3 +1,9 @@
+sleepi3-firmware (2.0.0) bookworm; urgency=medium
+
+  * Update for Debian-based kernel and firmware packages
+
+ -- Yuta Kiyonaga <kiyonaga@mechatrax.com>  Thu, 16 Nov 2023 13:29:41 +0900
+
 sleepi3-firmware (1.0.1.2) bookworm; urgency=medium
 
   * debian/postrm: Update entry deletion in /boot/config.txt
